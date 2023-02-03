@@ -15,8 +15,13 @@
     <div class="divider"></div>
 
     <p>
-      Lomni is a easy way to organize and search easily all your <a>#links</a> using chrome sidebar.
+      Welcome to Lomni, the Chrome sidebar that makes managing tabs and bookmarks easier and more organized!
+    </p>
 
+    <p>
+      Lomni is a Chrome extension that acts as a sidebar for the Chrome browser. 
+      It helps you manage your tabs by allowing you to organize, name, and add them to bookmarks. 
+      It also has a keyword search function and allows you to create bookmarks with keywords to make future searches easier.
     </p>
 
     <p>
@@ -30,6 +35,12 @@
       <li><span class="li-item">2. </span>open <a>chrome://flags/#side-panel-web-view</a> and enable the current flag</li>
       <li><span class="li-item">3. </span>now you can open the link <a>https://lomni-io.github.io/sidebar/latest/</a> in your webview sidebar. It's ready to use</li>
     </ul>
+<!-- 
+    <h2>Examples of Lomni Usage</h2>
+    <ul>
+      <li><span class="li-item">1. </span>Work using lomni, organize your JIRA's into <a>#tags</a>, find it easy later</li>
+    </ul> -->
+
 
 
   </div>
