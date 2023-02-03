@@ -33,14 +33,13 @@
     <ul>
       <li><span class="li-item">1. </span>Install Lomni <a href="https://chrome.google.com/webstore/detail/lomni-sibebar/aekckpbdaninhmbbajcpedhaidaeofdh">chrome plugin</a></li>
       <li><span class="li-item">2. </span>open <a>chrome://flags/#side-panel-web-view</a> and enable the current flag</li>
-      <li><span class="li-item">3. </span>now you can open the link <a>https://lomni-io.github.io/sidebar/latest/</a> in your webview sidebar. It's ready to use</li>
+      <li><span class="li-item">3. </span>now you can open the link <a>https://lomni-io.github.io/sidebar/</a> in your webview sidebar. It's ready to use</li>
     </ul>
 <!-- 
     <h2>Examples of Lomni Usage</h2>
     <ul>
       <li><span class="li-item">1. </span>Work using lomni, organize your JIRA's into <a>#tags</a>, find it easy later</li>
     </ul> -->
-
 
 
   </div>
